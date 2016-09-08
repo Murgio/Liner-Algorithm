@@ -11,6 +11,12 @@ Output Face with 6000 lines             |  Input Face
 
 ---
 
+## Demonstration
+
+![demo_gif](https://github.com/Murgio/Liner-Algorithm/blob/master/Face_Gif.gif)
+
+---
+
 ## Overview
 The algorithm finds the darkest line between two pins. It adds this line to a new blank image and removes the same line from 
 the original image. The output is an image created out of straight lines where every line goes through the whole image.
