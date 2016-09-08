@@ -1,9 +1,21 @@
-# Liner-Algorithm
-######Transforms an image into an knit pattern
+# Liner Algorithm
+#####Transforms an image into a knit pattern.
+
+---
+
+## Result
+
+Output Face with 6000 lines             |  Input Face
+:-------------------------:|:-------------------------:
+![output_image](https://raw.githubusercontent.com/Murgio/Liner-Algorithm/master/face_output_6000_lines.png)  |  ![input_image](https://raw.githubusercontent.com/Murgio/Liner-Algorithm/master/face.png)
+
+---
 
 ## Overview
-**The algorithm finds the darkest line between two pins. It adds this line to a new blank image and removes the same line on
-the original image. The output is an image created out of straight lines where every line goes through the whole image.**
+The algorithm finds the darkest line between two pins. It adds this line to a new blank image and removes the same line from 
+the original image. The output is an image created out of straight lines where every line goes through the whole image.
+
+---
 
 ## Features
 * Number of lines can be changed
