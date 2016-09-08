@@ -34,7 +34,7 @@ public class Liner {
 
     final String imageName = "face.png";
     final int numberOfPins = 200;
-    final int totalLines = 3000;
+    final int totalLines = 6000;
     int lineAlpha = 45;
     final int ignoreNeighbors = 10;
     boolean paused = false;
